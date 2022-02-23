@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nuvo-challenge/static/css/main.c3d2b56e.css",
+    "main.js": "/nuvo-challenge/static/js/main.9d2240c2.js",
+    "static/js/787.b376f8fe.chunk.js": "/nuvo-challenge/static/js/787.b376f8fe.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/nuvo-challenge/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/nuvo-challenge/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/nuvo-challenge/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/nuvo-challenge/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/nuvo-challenge/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/nuvo-challenge/index.html",
+    "static/media/iconmonstr-angel-up-thin.svg": "/nuvo-challenge/static/media/iconmonstr-angel-up-thin.9dfa4920d75a5b894569baf06f7309bf.svg",
+    "main.c3d2b56e.css.map": "/nuvo-challenge/static/css/main.c3d2b56e.css.map",
+    "main.9d2240c2.js.map": "/nuvo-challenge/static/js/main.9d2240c2.js.map",
+    "787.b376f8fe.chunk.js.map": "/nuvo-challenge/static/js/787.b376f8fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d2b56e.css",
+    "static/js/main.9d2240c2.js"
+  ]
+}
